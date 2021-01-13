@@ -1,2 +1,2 @@
-# ModalWindows
+# ModalWindows First Project
 Basic modal windows with close and open functionality, including use of the ESC button.
